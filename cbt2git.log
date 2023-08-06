@@ -1,0 +1,25 @@
+2023-08-06 08:32:26.084080 - Initialized conversion of CBT935
+2023-08-06 08:32:31.032095 - Received CBT.V505.FILE935.PDS from FILE935.XMI 
+2023-08-06 08:32:31.034574 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:32:31.035639 - Found $$README.txt (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/$$README
+2023-08-06 08:32:31.036713 - Found $README.txt (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/$README
+2023-08-06 08:32:31.037701 - Found @FILE935.txt (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/@FILE935
+2023-08-06 08:32:31.038705 - Found ASMACL.jcl (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/ASMACL
+2023-08-06 08:32:31.039751 - Found COBSQLTE.txt (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/COBSQLTE
+2023-08-06 08:32:31.040665 - Found COBTEST1.jcl (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/COBTEST1
+2023-08-06 08:32:31.041545 - Found COBTEST2.jcl (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/COBTEST2
+2023-08-06 08:32:31.042438 - Found IGYWCL.jcl (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/IGYWCL
+2023-08-06 08:32:31.043418 - Found LINK.jcl (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/LINK
+2023-08-06 08:32:31.235432 - Found LINKLIB.xmi (application/xmit) in CBT.V505.FILE935.PDS
+2023-08-06 08:32:31.247636   - Received RECFM=U data, stored XMIT file as CBT935/LINKLIB.xmi
+2023-08-06 08:32:31.247673 - Found PAXFULL.x-compress containing application/x-compress, moved to PDS/PAXFULL
+2023-08-06 08:32:31.259906 - Found PAXRUN.x-compress containing application/x-compress, moved to PDS/PAXRUN
+2023-08-06 08:32:31.268716 - Found PLICB.jcl (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/PLICB
+2023-08-06 08:32:31.269883 - Found PLISQLTE.txt (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/PLISQLTE
+2023-08-06 08:32:31.271070 - Found SQLITE3A.txt (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/SQLITE3A
+2023-08-06 08:32:31.271081 - Found SQLITE3O.bin containing application/octet-stream, moved to PDS/SQLITE3O
+2023-08-06 08:32:31.275223 - Found TESTCOB1.txt (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/TESTCOB1
+2023-08-06 08:32:31.276131 - Found TESTCOB2.txt (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/TESTCOB2
+2023-08-06 08:32:31.276143 - Found TESTDB.x-compress containing application/x-compress, moved to PDS/TESTDB
+2023-08-06 08:32:31.278305 - Found TSTPLI1.txt (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/TSTPLI1
+2023-08-06 08:32:31.279231 - Found UNPAX.jcl (text/plain) in CBT.V505.FILE935.PDS, moved to PDS/UNPAX
